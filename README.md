@@ -1,5 +1,5 @@
 # House-Prices
-Предсказание цен на жилье<br>
+Prices prediction (regression task)<br>
 
 - Препроцессинг данных
 - Визуализация
