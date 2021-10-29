@@ -1,4 +1,4 @@
-# House-Prices
+# House Prices
 Prices prediction (regression task)<br>
 
 - Визуализация
